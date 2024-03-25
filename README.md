@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mainaksaha623@gmail.com**
 
-- 📄 Know about my experiences [Photography , Content Creation ,Cinematography , Edits , Graphic Desinging](Photography , Content Creation ,Cinematography , Edits , Graphic Desinging)
+- 📄 Know about my experiences [Photography , Content Creation ,Cinematography , Edits , Graphic Desinging]
 
 - ⚡ Fun fact **COOL COOK WITH SALT**
 
