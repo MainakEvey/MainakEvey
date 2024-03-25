@@ -25,10 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/" target="blank"><img align="center" src="www.linkedin.com/in/" alt="www.linkedin.com/in/mainak-saha-evey-b38853285" height="30" width="40" /></a>
-<a href="https://fb.com/evey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evey" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_evey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_evey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@eveyframes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eveyframes" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mainak-saha-evey-b38853285/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="LinkedIn" height="30" width="30" /></a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100064639033883" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://image.flaticon.com/icons/png/512/61/61164.png" alt="Facebook" height="30" width="30" /></a>
+  
+  <a href="https://instagram.com/mr_evey" target="_blank" rel="noopener noreferrer" title="Instagram"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="Instagram" height="30" width="30" /></a>
+  
+  <a href="https://www.youtube.com/channel/UCNUoqPTvpa_NGGBnTyC4B8Q" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="https://image.flaticon.com/icons/png/512/61/61193.png" alt="YouTube" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
