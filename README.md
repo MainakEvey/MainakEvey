@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mainak-saha-evey-b38853285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mainak-saha-evey-b38853285" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/" target="blank"><img align="center" src="www.linkedin.com/in/" alt="www.linkedin.com/in/mainak-saha-evey-b38853285" height="30" width="40" /></a>
 <a href="https://fb.com/evey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evey" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_evey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_evey" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@eveyframes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eveyframes" height="30" width="40" /></a>
