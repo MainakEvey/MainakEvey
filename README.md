@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mainak-saha-evey-b38853285/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mainak-saha-evey-b38853285/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://imgs.search.brave.com/sj2qX7fJgF3QkXKXo_dektzz9u9Itwmyaet5WHBcUGE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1MjEu/cG5n" alt="LinkedIn" height="30" width="30" /></a>
   
   <a href="https://www.facebook.com/profile.php?id=100064639033883" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://image.flaticon.com/icons/png/512/174/174848.png" alt="Facebook" height="30" width="30" /></a>
   
