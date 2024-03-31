@@ -31,7 +31,7 @@
   
   <a href="https://instagram.com/mr_evey" target="_blank" rel="noopener noreferrer" title="Instagram"><img src="https://imgs.search.brave.com/sj2qX7fJgF3QkXKXo_dektzz9u9Itwmyaet5WHBcUGE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1MjEu/cG5n" alt="Instagram" height="30" width="30" /></a>
   
-  <a href="https://www.youtube.com/channel/UCNUoqPTvpa_NGGBnTyC4B8Q" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="[https://image.flaticon.com/icons/png/512/174/174883.png](https://imgs.search.brave.com/hXhq09jWp4KQZXuTOvNVI3YynKQxUIJjaKEiaMrMRgI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk2LzMxLzA2/LzM2MF9GXzU5NjMx/MDYyNl9oTmZvWG5u/eUdRVVAwc0J0VGQ4/V2lLeUtWN1hDVXMx/SS5qcGc)" alt="YouTube" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/channel/UCNUoqPTvpa_NGGBnTyC4B8Q" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="https://imgs.search.brave.com/hXhq09jWp4KQZXuTOvNVI3YynKQxUIJjaKEiaMrMRgI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk2LzMxLzA2/LzM2MF9GXzU5NjMx/MDYyNl9oTmZvWG5u/eUdRVVAwc0J0VGQ4/V2lLeUtWN1hDVXMx/SS5qcGc" alt="YouTube" height="30" width="30" /></a>
 </p>
 
 
