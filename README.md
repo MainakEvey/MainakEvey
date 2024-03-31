@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mainakevey" alt="mainakevey" /></a> </p>
 
-- 🔭 I’m currently working on [PhotoShow Website](http://127.0.0.1:5500/index.html)
+- 🔭 Recent Project on [WeatherApp](https://mainakevey.github.io/WeatherApp/)
 
 - 🌱 I’m currently learning **ReactJS Flask Bootstrap Canva Figma XD**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MainakEvey/Photoshow](https://github.com/MainakEvey/Photoshow)
 
-- 📝 I regularly write articles on [Instagram](Instagram)
+- 📝 I regularly write articles on [Instagram](https://instagram.com/mr_evey)
 
 - 💬 Ask me about **HTML CSS PYTHON JAVA**
 
