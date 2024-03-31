@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mainak-saha-evey-b38853285/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://imgs.search.brave.com/bDgXzdDkusXSvSnrnflVPp1YIokwifBW_buFfOWkLtQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/Ny9MaW5rZWRpbi1U/cmFuc3BhcmVudC5w/bmc)" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mainak-saha-evey-b38853285/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
   
   <a href="https://www.facebook.com/profile.php?id=100064639033883" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://image.flaticon.com/icons/png/512/174/174848.png" alt="Facebook" height="30" width="30" /></a>
   
@@ -33,6 +33,7 @@
   
   <a href="https://www.youtube.com/channel/UCNUoqPTvpa_NGGBnTyC4B8Q" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="https://image.flaticon.com/icons/png/512/174/174883.png" alt="YouTube" height="30" width="30" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
