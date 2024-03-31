@@ -25,13 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mainak-saha-evey-b38853285/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://imgs.search.brave.com/sj2qX7fJgF3QkXKXo_dektzz9u9Itwmyaet5WHBcUGE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1MjEu/cG5n" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mainak-saha-evey-b38853285/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://imgs.search.brave.com/xz6QT61mlL1agNCzc3vDhoYZzo6rlVPmQoh5btK9i70/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2xpbmtlZGlu/LXBuZy1vdGhlci1y/ZXNvbHV0aW9ucy0y/NDAtMjQwLXBpeGVs/cy00ODAtNDgwLXBp/eGVscy03NjgucG5n" alt="LinkedIn" height="30" width="30" /></a>
   
-  <a href="https://www.facebook.com/profile.php?id=100064639033883" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://image.flaticon.com/icons/png/512/174/174848.png" alt="Facebook" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100064639033883" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://imgs.search.brave.com/oJLuDjXTERHn6k3KVbwsFYoTaOMgkykMkCaH5mYfaKM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWRpZ2l0YWxhZ2Vu/Y3kuY29tLmF1L3dw/LWNvbnRlbnQvdXBs/b2Fkcy9GYWNlYm9v/ay1sb2dvLWJsdWUt/Y2lyY2xlLWxhcmdl/LXdoaXRlLWYucG5n" alt="Facebook" height="30" width="30" /></a>
   
-  <a href="https://instagram.com/mr_evey" target="_blank" rel="noopener noreferrer" title="Instagram"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" height="30" width="30" /></a>
+  <a href="https://instagram.com/mr_evey" target="_blank" rel="noopener noreferrer" title="Instagram"><img src="https://imgs.search.brave.com/sj2qX7fJgF3QkXKXo_dektzz9u9Itwmyaet5WHBcUGE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1MjEu/cG5n" alt="Instagram" height="30" width="30" /></a>
   
-  <a href="https://www.youtube.com/channel/UCNUoqPTvpa_NGGBnTyC4B8Q" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="https://image.flaticon.com/icons/png/512/174/174883.png" alt="YouTube" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/channel/UCNUoqPTvpa_NGGBnTyC4B8Q" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="[https://image.flaticon.com/icons/png/512/174/174883.png](https://imgs.search.brave.com/hXhq09jWp4KQZXuTOvNVI3YynKQxUIJjaKEiaMrMRgI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk2LzMxLzA2/LzM2MF9GXzU5NjMx/MDYyNl9oTmZvWG5u/eUdRVVAwc0J0VGQ4/V2lLeUtWN1hDVXMx/SS5qcGc)" alt="YouTube" height="30" width="30" /></a>
 </p>
 
 
